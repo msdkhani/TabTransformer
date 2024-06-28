@@ -1,0 +1,8 @@
+# Create a configuration for decoder transformer
+SEQUENCE_LENGTH: 16
+VOCAB_SIZE: 10000
+EMBED_DIM: 100
+NUM_LAYERS: 2
+NUM_HEADS: 2
+MAX_LEN: 100
+DROPOUT: 0.1
